@@ -4,9 +4,10 @@ permalink: /press/
 title: press
 description: Our works is sometimes highlighted in the press, we report these here!
 nav: true
+navorder: 6
 ---
 
-* In October 2016, Prof. Corey O’Hern and Thibault Bertrand gave a public lecture on the <a href="https://seas.yale.edu/news-events/news/ohern-and-bertrand-explain-mysteries-sand-video" > Mysteries of Sand </a>. Using water pitchers, hourglasses, glass pebbles, coffee beans and other props, O’Hern and Bertrand demonstrated the interesting properties of non-thermal granular media (such as sand and powder) to a crowd of elementary and junior high school students during this talk sponsored by Yale’s CRISP and Pathways to Science.
+* In October 2016, Prof. Corey O’Hern and Dr. Thibault Bertrand gave a public lecture on the <a href="https://seas.yale.edu/news-events/news/ohern-and-bertrand-explain-mysteries-sand-video" > Mysteries of Sand</a>. Using water pitchers, hourglasses, glass pebbles, coffee beans and other props, O’Hern and Bertrand demonstrated the interesting properties of non-thermal granular media (such as sand and powder) to a crowd of elementary and junior high school students during this talk sponsored by Yale’s CRISP and Pathways to Science.
 
 * During the summer of 2016, Thibault Bertrand and co-instructor Larry Wilen taught a week long workshop on musical acoustics and instrument design to a group of Pathways Summer Scholars – high school students in Yale’s Pathways to Science program. Pathways to Science is a great coordinated STEM outreach initiative for local pre-college students. You can read about this initiative here: <a href="https://seas.yale.edu/news-events/news/ceid-local-high-school-students-learn-music-engineering"> At CEID, Local high school students learn the music of engineering </a>.
 

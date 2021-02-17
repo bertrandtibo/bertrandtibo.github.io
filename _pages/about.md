@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 description: <a href="#">Department of Mathematics</a>. Imperial College London
+navorder: 1
 
 profile:
   align: right

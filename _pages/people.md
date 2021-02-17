@@ -7,6 +7,7 @@ profile:
   image: prof_pic_cropped.jpg
   cv: cv.pdf
 nav: true
+navorder: 2
 ---
 
 <h3>Principal Investigator</h3>

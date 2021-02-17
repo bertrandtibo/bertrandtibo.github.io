@@ -4,6 +4,7 @@ permalink: /teaching/
 title: teaching
 description: A description of courses taught at various universities and on various continents.
 nav: true
+navorder: 5
 ---
 
 <h3>Imperial College London</h3>

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2018-11-30
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Check out our most recent work on the <a href="https://iopscience.iop.org/article/10.1088/1367-2630/aaef6f/meta">Dynamics of run-and-tumble particles in single file systems</a> published today in the New Journal of Physics!
