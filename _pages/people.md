@@ -11,7 +11,7 @@ profile:
   img_HA: HA.jpg
   img_DK: DK.jpeg
   img_UA: UA.png
-  img_SP: HA.jpg
+  img_SP: SP.jpg
 nav: true
 navorder: 2
 ---
