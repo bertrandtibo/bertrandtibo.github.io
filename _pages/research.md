@@ -7,7 +7,9 @@ nav: true
 navorder: 3
 ---
 
-<div class="projects grid">
+This page is under construction... More on some of our awesome research in the near future! 
+
+<!-- <div class="projects grid">
 
   {% assign sorted_projects = site.projects | sort: "importance" %}
   {% for project in sorted_projects %}
@@ -45,4 +47,4 @@ navorder: 3
   </div>
 {% endfor %}
 
-</div>
+</div> -->
