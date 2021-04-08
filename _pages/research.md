@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: A growing collection of your cool projects.
+description: A short description of some of our research interests.
 nav: true
 navorder: 3
 ---

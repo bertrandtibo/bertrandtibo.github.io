@@ -4,43 +4,133 @@ permalink: /people/
 title: people
 profile:
   align: right
-  image: prof_pic_cropped.jpg
   cv: cv.pdf
+  img_TB: TB.jpg
+  img_SK: SK.jpg
+  img_AK: AK.jpg
+  img_HA: HA.jpg
+  img_DK: DK.jpeg
+  img_UA: UA.png
+  img_SP: HA.jpg
 nav: true
 navorder: 2
 ---
 
-<h3>Principal Investigator</h3>
-<p><img style="padding: 0 15px 10px 10px; float: left;" src="{{ page.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" width="33%"></p>
-<p style="margin-top: 20px;"> </p>
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="300" src="{{ page.profile.img_TB | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
 <h4>Thibault Bertrand, PhD</h4>
-<p> Dr Bertrand is a Strategic Teaching Fellow in Applied Mathematics in the Department of Mathematics at Imperial College London. Trained as a theoretical physicist, his expertise is in non equilibrium statistical mechanics.
 
-Before moving to the Department of Mathematics at Imperial College London in 2018, he was a postdoctoral fellow with Dr Raphaël Voituriez at Sorbonne Université (Laboratoire Jean Perrin). Thibault was trained in the Department of Physics at Ecole Normale Supérieure de Cachan for his undergrad obtaining both a BSc and a MSc with honors. In 2016, he graduated with a PhD from Yale University (New Haven, CT, USA) where he worked on jamming in model disordered systems under the supervision of Prof Corey S. O'Hern (Yale) and in collaboration with Prof Mark D. Shattuck (CCNY).</p>
+<p align="justify">Dr Bertrand is a Senior Strategic Teaching Fellow in Applied Mathematics and Mathematical Physics in the Department of Mathematics at Imperial College London. Trained as a theoretical physicist, his expertise is in non equilibrium statistical mechanics.</p>
 
-A complete CV can be found here [<a href="{{ page.profile.cv | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>]
+<p align="justify">Before moving to the Department of Mathematics at Imperial College London in 2018, he was a postdoctoral fellow with <a href="https://www.labojeanperrin.fr/?rvoituriez&lang=en"> Dr Raphaël Voituriez </a> at Sorbonne Université (Laboratoire Jean Perrin). Thibault was trained in the Department of Physics at Ecole Normale Supérieure de Cachan for his undergrad obtaining both a BSc and a MSc. In 2016, he graduated with a PhD from Yale University (New Haven, CT, USA) where he worked on jamming in model disordered systems under the supervision of <a href="https://jamming.research.yale.edu/">Prof Corey S. O'Hern</a> (Yale) and in collaboration with <a href="https://www.ccny.cuny.edu/profiles/mark-shattuck">Prof Mark D. Shattuck</a> (CCNY).</p>
 
-<hr>
-
-<h3>Current Group Members</h3>
-
-* <h4><strong>Andrew Killeen</strong></h4> 
-PhD Student (co-supervised with <a href="http://www.bg.ic.ac.uk/research/c.lee/index.html">Dr Chiu Fan Lee</a>)
-
-* <h4><strong>Tianqi Liu</strong></h4> 
-UROP Student, Department of Mathematics (2nd year), Imperial College London
-
-* <h4><strong>Hugo Chu</strong></h4> 
-UROP Student, Department of Mathematics (3rd year), Imperial College London
+<!-- A complete CV can be found here [<a href="{{ page.profile.cv | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>] -->
+</div>
 
 <hr>
 
-<h3>Former Group Members</h3>
+<h3>Current group members</h3>
 
-* <strong>Hajar Ouaaline</strong> (MSc in Applied Mathematics, Imperial College London, 2019) 
+<!-------------------------------------------->
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_SK | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Shalabh Anand Kumar, PhD</h4>
 
-* <strong>Angeliki Dermitzaki</strong> (MSc in Applied Mathematics, Imperial College London, 2019)
+<p>Postdoctoral research associate (co-supervised with <a href="http://www.bg.ic.ac.uk/research/c.lee/index.html">Dr Chiu Fan Lee</a>)</p>
 
-* <strong>Maxwell Buckmire-Monro</strong> (MSc in Applied Mathematics, Imperial College London, 2019)
+<p align="justify">Shalabh is a Postdoctoral Research Assistant working at Imperial College with Dr. Thibault Bertrand (Department of Mathematics) and Dr. Chiu Fan Lee (Department of Bioengineering). His research interests lie in soft matter, mainly in active matter systems. His current focus is to explore dense systems of active particles and ask the question of the existence of jammed states and universality in living or synthetic non-equilibrium systems. He previously worked on simulations of active polymers and anisotropic microswimmers under confinement. He obtained his PhD in Physics from Indian Institute of Science Education and Research Bhopal, India.
+</p>
 
-* <strong>Kai Law</strong> (UROP Student, Department of Physics (3rd year), Imperial College London, 2019)
+</div>
+<!-------------------------------------------->
+<br>
+<!-------------------------------------------->
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_AK | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Andrew Killeen</h4>
+
+<p>PhD Student (co-supervised with <a href="http://www.bg.ic.ac.uk/research/c.lee/index.html">Dr Chiu Fan Lee</a>)</p>
+
+<p align="justify">Andy obtained an MEng in Mechanical Engineering from the University of Southampton before joining Imperial College’s <a href="https://www.imperial.ac.uk/fluids-cdt/">Centre for Doctoral Training (CDT) in Fluid Dynamics</a>. His research focusses on modelling cellular dynamics and interactions to understand the causes of emergent behaviour seen experimentally. He is collaborating with the group of <a href="https://www.imperial.ac.uk/lo-celso-lab/">Cristina Lo Celso (Department of Life Sciences)</a> to model interactions between healthy and leukemic cells in the bone marrow, to better understand how leukaemia outcompetes healthy haematopoiesis.
+</p>
+
+</div>
+<!-------------------------------------------->
+<br>
+<!-------------------------------------------->
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_HA | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Henry Alston</h4>
+
+<p>PhD Student</p>
+
+<p align="justify">As an undergraduate, Henry studied mathematics at Imperial College London and joined the group in Autumn 2020 as a PhD student. His master's thesis focused on the phase transition phenomena present in two systems of self-organisation through velocity and body-attitude alignment. He is currently working on applying Non-Equilibrium Statistical Mechanics techniques to understand the emergent behaviour in active and living systems.
+</p>
+
+</div>
+<!-------------------------------------------->
+<br>
+<!-------------------------------------------->
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_DK | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Deepti Kannan</h4>
+
+<p>MSc student in Applied Mathematics</p>
+
+<p align="justify"> Deepti is a MSc student in Applied Mathematics at Imperial and a Marshall scholar from California, USA. As an undergraduate, she studied engineering physics at Stanford. For her senior thesis, she worked in the lab of Andrew J. Spakowitz on theoretical models of chromatin elasticity. Her research focuses on non-equilibrium phenomena in living systems. When she isn't running simulations of active Brownian particles, she enjoys running along the Thames, singing Evensong, and cooking vegan delicacies.
+</p>
+
+</div>
+<!-------------------------------------------->
+<br>
+<!-------------------------------------------->
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_UA | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Urte Adomaityte</h4>
+
+<p>MSc student in Applied Mathematics</p>
+
+<p align="justify"> Urte is currently studying towards a MSc in Applied Mathematics at Imperial. Having done both mathematics and philosophy in her undergraduate studies, she is interested in applications of mathematical tools and concepts to social sciences, neuroscience and philosophy. Lately, she has been looking at models of large complex systems applied to social dynamics. Her Masters project is on phase transitions in models of opinion formation, focusing on the emergence of extremists and charismatic leaders. Aside from that, she is passionate about food, long distance running and making the most out of their synergistic effects.
+</p>
+
+</div>
+<!-------------------------------------------->
+<br>
+<!-------------------------------------------->
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_SP | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Shivan Parmar</h4>
+
+<p>MSci student in Mathematics</p>
+
+<p align="justify">
+</p>
+
+</div>
+<!-------------------------------------------->
+
+<hr>
+
+<h3>Former members</h3>
+
+* __Eleni Chousa__ (MSc in Applied Mathematics, Imperial College London, 2020) 
+
+* __Franck Pan__ (MSc in Applied Mathematics, Imperial College London, 2020) 
+
+* __Wan Ying Siaw__ (MSc in Applied Mathematics, Imperial College London, 2020)
+
+* __Nikolay Smirnov__ (MSci in Mathematics and Computing, Imperial College London, 2020)
+
+* __Lorenzo Signore__ (UROP Student, Department of Mathematics, Imperial College London, 2020)
+
+* __Hugo Chu__ (UROP Student, Department of Mathematics, Imperial College London, 2019-2020)
+
+* __Tianqi Liu__ (UROP Student, Department of Mathematics, Imperial College London, 2019-2020)
+
+* __Hajar Ouaaline__ (MSc in Applied Mathematics, Imperial College London, 2019) 
+
+* __Angeliki Dermitzaki__ (MSc in Applied Mathematics, Imperial College London, 2019)
+
+* __Maxwell Buckmire-Monro__ (MSc in Applied Mathematics, Imperial College London, 2019)
+
+* __Kai Law__ (UROP Student, Department of Physics, Imperial College London, 2019)

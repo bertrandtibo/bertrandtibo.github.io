@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2019-6-4
+date: 2011-12-1
 inline: true
 ---
 
-Welcome to Hajar, Angeliki and Maxwell who are joining the group for their MSc final project! :mortar_board:
+Our project on the structure of Birds Nests highlighted in <a href="http://seas.yale.edu/sites/default/files/Yale_SEAS_2011_Publication.pdf">Yale Engineering Magazine</a> (p.21).
 
 <!-- ---
 layout: post

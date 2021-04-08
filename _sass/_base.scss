@@ -75,6 +75,17 @@ a, table.table a {
   }
 }
 
+// About img
+.aboutimg {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.aboutext {
+  text-align: justify;
+}
 
 // Navbar customization
 
@@ -162,6 +173,7 @@ a, table.table a {
 }
 
 .news table th {
+  width: 120px;
   color: var(--global-text-color);
 }
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2019-6-3
+date: 2013-10-24
 inline: true
 ---
 
-Check out our most recent work on <a href="https://link.aps.org/doi/10.1103/PhysRevE.99.062901">Active Acoustic Switches</a> published today in PRE!
+From <strong>MENG383 (MechEngIII: Dynamics)</strong>, our newest lab initiative highlighted on the Yale SEAS <a href="http://seas.yale.edu/news-events/news/engineering-beautiful-music-together">website</a>
 

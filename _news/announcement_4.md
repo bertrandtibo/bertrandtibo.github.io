@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2019-10-1
+date: 2014-9-18
 inline: true
 ---
 
-Welcome to Andy who is joining the group for his PhD in collaboration with Dr Chiu Fan Lee (Bioengineering, ICL)! :mortar_board:
+YaleNews features <strong>ENAS344/MUSI371</strong> in its <a href="http://news.yale.edu/2014/09/18/think-meets-make-yale-engineer-argues-diverse-creativity-2014-makercon">article</a> covering Eric Dufresne’s (CEID director) talk at MakerCon 2014.
