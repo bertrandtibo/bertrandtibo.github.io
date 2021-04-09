@@ -11,7 +11,7 @@ profile:
   img_HA: HA.jpg
   img_DK: DK.jpeg
   img_UA: UA.png
-  img_SP: SP.jpg
+  img_SP: SP.png
 nav: true
 navorder: 2
 ---
@@ -77,7 +77,7 @@ navorder: 2
 
 <p>MSc student in Applied Mathematics</p>
 
-<p align="justify"> Deepti is a MSc student in Applied Mathematics at Imperial and a Marshall scholar from California, USA. As an undergraduate, she studied engineering physics at Stanford. For her senior thesis, she worked in the lab of Andrew J. Spakowitz on theoretical models of chromatin elasticity. Her research focuses on non-equilibrium phenomena in living systems. When she isn't running simulations of active Brownian particles, she enjoys running along the Thames, singing Evensong, and cooking vegan delicacies.
+<p align="justify"> Deepti is a MSc student in Applied Mathematics at Imperial and a Marshall scholar from California, USA. Previously, she completed an MPhil in the David Wales lab at the University of Cambridge and a bachelors in Engineering Physics at Stanford, where she developed an analytical model of chromatin organization in the lab of Andrew J. Spakowitz. Her current research focuses on modeling the non-equilibrium dynamics of paramecia, a unicellular organism that exhibits mechanosensitive behavior. When she isn't running simulations of active Brownian particles, she enjoys running along the Thames, singing Evensong, and cooking vegan delicacies.
 </p>
 
 </div>
@@ -103,7 +103,7 @@ navorder: 2
 
 <p>MSci student in Mathematics</p>
 
-<p align="justify">
+<p align="justify">Shivan is currently in his fourth year at Imperial, taking a wide range of modules from the applied maths and mathematical physics section. His MSci project involves using the parameter-free techniques of Empirical Dynamical Modelling to explore the dynamics of the Guadalquivir estuary ecosystem. One aim of the project is to deduce the food web and interspecies interactions from time series data of species abundances.
 </p>
 
 </div>
