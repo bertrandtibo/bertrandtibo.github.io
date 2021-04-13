@@ -34,7 +34,7 @@ navorder: 2
 <!-------------------------------------------->
 <div class="clearfix">
 <img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_SK | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
-<h4>Shalabh Anand Kumar, PhD</h4>
+<h4>Shalabh Kumar Anand, PhD</h4>
 
 <p>Postdoctoral research associate (co-supervised with <a href="http://www.bg.ic.ac.uk/research/c.lee/index.html">Dr Chiu Fan Lee</a>)</p>
 
