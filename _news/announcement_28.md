@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-10-02
+date: 2020-11-1
 inline: true
 ---
 
-Shivan is joining the group for his final year MSci project. He will be using tools of empirical dynamic modelling to study interactions between species in a complex marine ecosystem. :tropical_fish: Welcome Shivan!
+Hailing from Bhopal, India, Shalabh is joining the group as a postdoctoral research associate. Shalabh will be working on very dense active matter; he will try to elucidate the difference between active jamming and glassy dynamics in active matter. Welcome Shalabh!

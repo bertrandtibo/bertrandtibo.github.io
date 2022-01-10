@@ -10,7 +10,7 @@ navorder: 5
 <h3>Imperial College London</h3>
 
 <h4><strong> PDEs in Action: Introduction to modelling in applied mathematics, MATH50008 </strong></h4>
-<p><i>Spring 2021</i></p>
+<p><i>Spring 2021, Spring 2022</i></p>
 
 <p align="justify"> This module provides a hands-on introduction to partial differential equations and the concept of modelling in applied mathematics. We focus on the practical applications of partial differential equations. Along the way, students are introduced to classical partial differential equations and as well as more advanced examples. Throughout the course, the students learn basic techniques of resolutions of PDEs. Students are also introduced to basic numerical methods to solve partial differential equations.</p>
 
@@ -21,7 +21,7 @@ navorder: 5
 
 
 <h4><strong> Introduction to University Mathematics, MATH40001 </strong></h4>
-<p><i>Fall 2019, Fall 2020</i></p>
+<p><i>Fall 2019, Fall 2020, Fall 2021</i></p>
 
 <p align="justify">This module provides a transition towards the way ones thinks about, and does, Mathematics at university. It stresses the importance of precise definitions and rigorous proofs, but also discuss their relationship to more informal styles of reasoning which are often encountered in applications of Mathematics. Topics covered include an introduction to elementary set theory, common proof strategies as well as common functions, and elementary vector operations and geometry.</p>
 

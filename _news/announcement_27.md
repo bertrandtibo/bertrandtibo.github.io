@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-10-01
+date: 2020-10-02
 inline: true
 ---
 
-Welcome to Henry who is joining the group as a PhD student in the maths department! Originally from Cardiff, he recently graduated with an MSci in mathematics from Imperial. Henry will be working on minimal models of active matter with applications to bacterial colonies. 
+Shivan is joining the group for his final year MSci project. He will be using tools of empirical dynamic modelling to study interactions between species in a complex marine ecosystem. :tropical_fish: Welcome Shivan!
