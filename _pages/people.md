@@ -12,6 +12,7 @@ profile:
   img_DK: DK.jpeg
   img_UA: UA.png
   img_SP: SP.png
+  img_FW: FW.jpg
   img_GM: man_lab_member.png
   img_GW: woman_lab_member.png
 nav: true
@@ -77,13 +78,12 @@ A complete CV can be found here [<a href="{{ page.profile.cv | prepend: '/assets
 <br>
 <!-------------------------------------------->
 <div class="clearfix">
-<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_GM | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_FW | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
 <h4>Filip Weidler</h4>
 
 <p>MSci student in Mathematics</p>
 
-<p align="justify">
-
+<p align="justify">Filip is a fourth year student on the Msci Mathematics program at Imperial taking mostly physics and computational mathematics modules this year after focusing on statistics in the previous years. In the group, his project deals with the analysis of ecological data of a marine ecosystem; in particular, Filip is trying to determine causality relations between population time series through the use of Echo State Networks. His goal is to find a method robust to the effects of noise and seasonality on short time series data.
 </p>
 
 </div>
