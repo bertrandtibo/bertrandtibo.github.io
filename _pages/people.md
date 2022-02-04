@@ -13,6 +13,7 @@ profile:
   img_UA: UA.png
   img_SP: SP.png
   img_FW: FW.jpg
+  img_BB: BB.jpg
   img_GM: man_lab_member.png
   img_GW: woman_lab_member.png
 nav: true
@@ -78,6 +79,33 @@ A complete CV can be found here [<a href="{{ page.profile.cv | prepend: '/assets
 <br>
 <!-------------------------------------------->
 <div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_BB | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Bilal Botté</h4>
+
+<p>MSc student in Applied Mathematics</p>
+
+<p align="justify">Bilal joined the Msc in applied mathematics at Imperial after studying both maths and medicine in Paris.  He is particularly interested in the mathematical modeling of biological systems and the future applications to medical care. His project aims to numerically model the dynamics of a 3D human tissue, including cell locomotion, apoptosis and cell division.
+</p>
+
+</div>
+<!-------------------------------------------->
+<br>
+<!-------------------------------------------->
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_GM | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Hanchun Wang</h4>
+
+<p>MSc student in Applied Mathematics</p>
+
+<p align="justify">
+
+</p>
+
+</div>
+<!-------------------------------------------->
+<br>
+<!-------------------------------------------->
+<div class="clearfix">
 <img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_FW | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
 <h4>Filip Weidler</h4>
 
@@ -103,7 +131,6 @@ A complete CV can be found here [<a href="{{ page.profile.cv | prepend: '/assets
 </div>
 <!-------------------------------------------->
 <br>
-
 
 <hr>
 
