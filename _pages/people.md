@@ -14,6 +14,7 @@ profile:
   img_SP: SP.png
   img_FW: FW.jpg
   img_BB: BB.jpg
+  img_HW: HW.jpg
   img_GM: man_lab_member.png
   img_GW: woman_lab_member.png
 nav: true
@@ -92,13 +93,13 @@ A complete CV can be found here [<a href="{{ page.profile.cv | prepend: '/assets
 <br>
 <!-------------------------------------------->
 <div class="clearfix">
-<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_GM | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_HW | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
 <h4>Hanchun Wang</h4>
 
 <p>MSc student in Applied Mathematics</p>
 
 <p align="justify">
-
+Hanchun completed his undergraduate study in Mathematics Physics and computer science at University of Toronto. He is interested in applying machine learning and geometry to study different kinds of complex systems. More can be found on <a href="https://enthazy.github.io/"> his website</a>. At the moment, he is studying the effect that inertia has on phase transitions observed in active matter.
 </p>
 
 </div>
