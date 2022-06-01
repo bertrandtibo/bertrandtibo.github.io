@@ -29,7 +29,7 @@ navorder: 2
 
 <p align="justify">Before moving to the Department of Mathematics at Imperial College London in 2018, he was a postdoctoral fellow with <a href="https://www.labojeanperrin.fr/?rvoituriez&lang=en"> Dr Raphaël Voituriez </a> at Sorbonne Université (Laboratoire Jean Perrin). Thibault was trained in the Department of Physics at Ecole Normale Supérieure de Cachan for his undergrad obtaining both a BSc and a MSc. In 2016, he graduated with a PhD from Yale University (New Haven, CT, USA) where he worked on jamming in model disordered systems under the supervision of <a href="https://jamming.research.yale.edu/">Prof Corey S. O'Hern</a> (Yale) and in collaboration with <a href="https://www.ccny.cuny.edu/profiles/mark-shattuck">Prof Mark D. Shattuck</a> (CCNY).</p>
 
-A complete CV can be found here [<a href="{{ page.profile.cv | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>]
+<!-- A complete CV can be found here [<a href="{{ page.profile.cv | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>] -->
 
 <p align="justify">Contact: <a href="mailto:t.bertrand@imperial.ac.uk">t.bertrand@imperial.ac.uk</a></p>
 
