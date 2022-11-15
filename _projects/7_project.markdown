@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Stochastic Models of Opinion Formation
-description:
+title: Entropy Production in Nonequilibrium Systems
+description: 
 img: 
 importance: 7
 ---

@@ -58,7 +58,10 @@
         {% if entry.journal == "arXiv" %}
           <em>{{entry.journal}}</em>:{{entry.eprint}} ({{entry.year}})
         {% else %}
-          <em>{{entry.journal}}</em>, <b>{{entry.volume}}</b>, {{entry.pages}} ({{entry.year}})
+          <em>{{entry.journal}}</em>, <b>{{entry.volume}}</b>, {{entry.pages}} ({{entry.year}}) 
+          {% if entry.comment %}
+            <br>[{{entry.comment}}]
+          {% endif %}
         {% endif %}
       {% elsif entry.type == "inproceedings" %}
         <em>In {{entry.booktitle}}</em> ({{entry.year}})

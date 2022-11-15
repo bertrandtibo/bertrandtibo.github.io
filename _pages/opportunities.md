@@ -15,6 +15,15 @@ navorder: 7
 
 <hr>
 
+<h3>Mary Lister McCammon Summer Research Fellowship</h3>
+
+<p align="justify"> To help tip in the right direction the gender imbalance in mathematics, we are proud participants in the Mary Lister McCammon Summer Research programme spearheaded in the Department of Mathematics. The <a href="https://www.imperial.ac.uk/mathematics/postgraduate/the-mary-lister-mccammon-summer-research-fellowship/
+">Mary Lister McCammon Summer Research Fellowships</a> give an opportunity for female student in mathematics in their penultimate year of university to spend the summer working on a research project under the supervision of a faculty member of the department. In essence, this is a chance to try out being a PhD student for the summer, and to gain the research experience which will make your PhD application more competitive. During the summer, fellows are also offered guidance on how to go about applying for a PhD and communications training.
+
+In addition to your research project, you will have the opportunity to gain insight from current PhD students into what doing a PhD is actually like, and you'll receive  a briefing on how to go about applying for a PhD and the PhD programmes and funding streams which are available. </p>
+
+<hr>
+
 <h3>PhD at Imperial</h3>
 
 <p align="justify"> Students interested in joining the group for their PhD are encouraged to reach out. Every year, a number of interesting PhD projects are available. A PhD may be co-supervised by a collaborator at Imperial or outside. Most PhD projects will have numerical and analytical components but they can also draw on experimental data. PhD students are strongly encouraged to actively collaborate with our experimental collaborators. Our group is particularly interested in studying the stochastic dynamics of living and reactive systems as well as the dynamical and mechanical properties of soft and disordered materials. We usually cast our problems in the language of nonequilibrium statistical mechanics and soft codensed matter physics. While sometimes the chemical/biological question serves as motivation to study a general question in non-equilibrium systems, some of our projects deal more clearly with the modelling of real systems. To get an idea of the type of research done in the group, perusing through the group's publications is a good idea.</p>
