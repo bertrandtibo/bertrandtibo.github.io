@@ -41,19 +41,6 @@ navorder: 2
 <hr>
 
 <h3>Current group members</h3>
-
-<!-------------------------------------------->
-<div class="clearfix">
-<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_SK | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
-<h4>Shalabh Kumar Anand, PhD</h4>
-
-<p>Postdoctoral research associate (co-supervised with <a href="http://www.bg.ic.ac.uk/research/c.lee/index.html">Dr Chiu Fan Lee</a>)</p>
-
-<p align="justify">Shalabh is a Postdoctoral Research Assistant working at Imperial College with Dr. Thibault Bertrand (Department of Mathematics) and Dr. Chiu Fan Lee (Department of Bioengineering). His research interests lie in soft matter, mainly in active matter systems. His current focus is to explore dense systems of active particles and ask the question of the existence of jammed states and universality in living or synthetic non-equilibrium systems. He previously worked on simulations of active polymers and anisotropic microswimmers under confinement. He obtained his PhD in Physics from Indian Institute of Science Education and Research Bhopal, India.
-</p>
-
-</div>
-<!-------------------------------------------->
 <br>
 <!-------------------------------------------->
 <div class="clearfix">
@@ -107,6 +94,34 @@ navorder: 2
 </div>
 <!-------------------------------------------->
 <br>
+<!-------------------------------------------->
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_GM | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Edward Erasmie-Jones</h4>
+
+<p>MSc Student</p>
+
+<p align="justify">
+
+</p>
+
+</div>
+<!-------------------------------------------->
+<br>
+<!-------------------------------------------->
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_GW | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Clara Neather</h4>
+
+<p>MSc Student</p>
+
+<p align="justify">
+
+</p>
+
+</div>
+<!-------------------------------------------->
+<br>
 
 <hr>
 
@@ -142,6 +157,10 @@ navorder: 2
 * __Callum Britton__ (UROP Student, Department of Mathematics, Imperial College London, 2021)
 
 * __Su Lee__ (UROP Student, Department of Mathematics, Imperial College London, 2021)
+
+* __Urte Adomaityte__ (MSc in Applied Mathematics, Imperial College London, 2021)
+
+* __Deepti Kannan__ (MSc in Applied Mathematics, Imperial College London, 2021)
 
 * __Shivan Parmar__ (MSci in Mathematics, Imperial College London, 2021)
 
@@ -258,6 +277,19 @@ Hanchun completed his undergraduate study in Mathematics Physics and computer sc
 <p>MSci student in Mathematics</p>
 
 <p align="justify">
+
+</div>
+------------------->
+
+<!------------------
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_SK | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Shalabh Kumar Anand, PhD</h4>
+
+<p>Postdoctoral research associate (co-supervised with <a href="http://www.bg.ic.ac.uk/research/c.lee/index.html">Dr Chiu Fan Lee</a>)</p>
+
+<p align="justify">Shalabh is a Postdoctoral Research Assistant working at Imperial College with Dr. Thibault Bertrand (Department of Mathematics) and Dr. Chiu Fan Lee (Department of Bioengineering). His research interests lie in soft matter, mainly in active matter systems. His current focus is to explore dense systems of active particles and ask the question of the existence of jammed states and universality in living or synthetic non-equilibrium systems. He previously worked on simulations of active polymers and anisotropic microswimmers under confinement. He obtained his PhD in Physics from Indian Institute of Science Education and Research Bhopal, India.
+</p>
 
 </div>
 ------------------->

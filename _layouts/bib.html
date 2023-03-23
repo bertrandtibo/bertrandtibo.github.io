@@ -57,6 +57,8 @@
       {% if entry.type == "article" %}
         {% if entry.journal == "arXiv" %}
           <em>{{entry.journal}}</em>:{{entry.eprint}} ({{entry.year}})
+        {% elsif entry.journal == "bioRxiv" %}
+          <em>{{entry.journal}}</em>:{{entry.eprint}} ({{entry.year}})
         {% else %}
           <em>{{entry.journal}}</em>, <b>{{entry.volume}}</b>, {{entry.pages}} ({{entry.year}}) 
           {% if entry.comment %}
