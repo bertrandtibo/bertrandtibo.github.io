@@ -17,6 +17,8 @@ profile:
   img_HW: HW.jpg
   img_EL: EL.jpg
   img_CGV: CGV.jpg
+  img_EEJ: EEJ.jpg
+  img_CN: CN.jpg
   img_GM_2022: GM_2022.JPG
   img_GM: man_lab_member.png
   img_GW: woman_lab_member.png
@@ -96,13 +98,13 @@ navorder: 2
 <br>
 <!-------------------------------------------->
 <div class="clearfix">
-<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_GM | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_EEJ | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
 <h4>Edward Erasmie-Jones</h4>
 
 <p>MSc Student</p>
 
 <p align="justify">
-
+Edward is undertaking a master's in applied mathematics at Imperial College London. He is interested in all things mathematics, especially computational mathematics, mathematical biology and fluid dynamics. His current research project involves studying the chemotactic behaviour of E. Coli, and how this behaviour changes in the presence of different chemoattractant gradient structures in crowded environment.
 </p>
 
 </div>
@@ -110,13 +112,13 @@ navorder: 2
 <br>
 <!-------------------------------------------->
 <div class="clearfix">
-<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_GW | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_CN | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
 <h4>Clara Neather</h4>
 
 <p>MSc Student</p>
 
 <p align="justify">
-
+Clara joined Imperial College London in September 2022 after completing a BSc in Mathematics at the University of Bristol. Her MSc is in Applied Mathematics, with a focus on quantum mechanics and mathematical biology. Her research project is on the behaviour of active filaments in crowded environments, modelling active polymer chains in environments with obstacles.
 </p>
 
 </div>
@@ -139,6 +141,8 @@ navorder: 2
 <hr>
 
 <h3>Former members</h3>
+
+* __Shalabh Anand__ (Postdoctoral fellow, Imperial College London, 2020-2022)
 
 * __Hanchun Wang__ (MSc in Applied Mathematics, Imperial College London, 2022)
 
