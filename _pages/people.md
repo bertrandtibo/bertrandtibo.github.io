@@ -19,6 +19,10 @@ profile:
   img_CGV: CGV.jpg
   img_EEJ: EEJ.jpg
   img_CN: CN.jpg
+  img_CB: CB.jpg
+  img_TJ: TJ.jpg
+  img_JP: JP.jpg
+  img_XZ: XZ.jpg
   img_GM_2022: GM_2022.JPG
   img_GM: man_lab_member.png
   img_GW: woman_lab_member.png
@@ -43,19 +47,6 @@ navorder: 2
 <hr>
 
 <h3>Current group members</h3>
-<br>
-<!-------------------------------------------->
-<div class="clearfix">
-<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_AK | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
-<h4>Andrew Killeen</h4>
-
-<p>PhD Student (co-supervised with <a href="http://www.bg.ic.ac.uk/research/c.lee/index.html">Dr Chiu Fan Lee</a>)</p>
-
-<p align="justify">Andy obtained an MEng in Mechanical Engineering from the University of Southampton before joining Imperial College’s <a href="https://www.imperial.ac.uk/fluids-cdt/">Centre for Doctoral Training (CDT) in Fluid Dynamics</a>. His research focusses on modelling cellular dynamics and interactions to understand the causes of emergent behaviour seen experimentally. He is collaborating with the group of <a href="https://www.imperial.ac.uk/lo-celso-lab/">Cristina Lo Celso (Department of Life Sciences)</a> to model interactions between healthy and leukemic cells in the bone marrow, to better understand how leukaemia outcompetes healthy haematopoiesis.
-</p>
-
-</div>
-<!-------------------------------------------->
 <br>
 <!-------------------------------------------->
 <div class="clearfix">
@@ -85,12 +76,12 @@ navorder: 2
 <br>
 <!-------------------------------------------->
 <div class="clearfix">
-<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_CGV | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
-<h4>Caetano Visan-Genete</h4>
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_CB | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Callum Britton</h4>
 
-<p>MSci Student</p>
+<p>PhD Student (co-supervised with <a href="https://www.imperial.ac.uk/people/g.pruessner">Dr Gunnar Pruessner</a>)</p>
 
-<p align="justify">Caetano is a fourth-year student on the Mathematics program at Imperial College London with great interests in many different fields such as Analysis, Applied Mathematics, Computational Mathematics and Physics. His current research project involves investigating, numerically, the phenomena of liquid-liquid phase separation influenced by enzymatic chemical reactions within the cytoplasm of living cells. More precisely, by varying these reactions in both time and space.
+<p align="justify"> Callum completed his MSci in Mathematics at Imperial College London. He previously did an Undergraduate Research Opportunity as part of the group in 2021, and has most recently completed his Master’s thesis with Dr. Gunnar Pruessner in the Non-Equilibrium Systems group focusing on the Doi-Peliti field theory of Transiently Chiral ABPs. He continues on as a PhD student exploring active systems numerically and analytically under the co-supervision of T. Bertrand and G. Pruessner. 
 </p>
 
 </div>
@@ -98,13 +89,12 @@ navorder: 2
 <br>
 <!-------------------------------------------->
 <div class="clearfix">
-<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_EEJ | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
-<h4>Edward Erasmie-Jones</h4>
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_TJ | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Yuxin (Tina) Jia</h4>
 
-<p>MSc Student</p>
+<p>PhD Student</p>
 
-<p align="justify">
-Edward is undertaking a master's in applied mathematics at Imperial College London. He is interested in all things mathematics, especially computational mathematics, mathematical biology and fluid dynamics. His current research project involves studying the chemotactic behaviour of E. Coli, and how this behaviour changes in the presence of different chemoattractant gradient structures in crowded environment.
+<p align="justify">During her undergraduate years, Tina immersed herself in Applied Mathematics at the University of Waterloo, Canada. She then joined the University of Oxford, focusing on Mathematical Modelling and Scientific Computing. In the past, she has studied models of avascular tumor growth and hydrodynamic microswimmers in low Reynold environments.Tina joined Imperial College London in Autumn 2023 as a PhD student; she will study the transport of active particles in complex environments. Ultimately, she is interested in the use of microswimmers as targeted drug delivery systems, with the aspiration of transforming cancer treatment methodologies.
 </p>
 
 </div>
@@ -119,6 +109,71 @@ Edward is undertaking a master's in applied mathematics at Imperial College Lond
 
 <p align="justify">
 Clara joined Imperial College London in September 2022 after completing a BSc in Mathematics at the University of Bristol. Her MSc is in Applied Mathematics, with a focus on quantum mechanics and mathematical biology. Her research project is on the behaviour of active filaments in crowded environments, modelling active polymer chains in environments with obstacles.
+</p>
+
+</div>
+<!-------------------------------------------->
+<br>
+<!-------------------------------------------->
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_JP | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Jane Peltier</h4>
+
+<p>MSc Student</p>
+
+<p align="justify"> Jane joined the group in July 2023 as a Mary Lister McCammon Summer Research Fellow after completing a BSc in Mathematics and Economics at Ecole Polytechnique in France. She is now undertaking an MSc in Applied Mathematics and working on the analytical and numerical investigation of liquid-liquid phase separation with switching and nonreciprocity. She is greatly interested in Computational Mathematics, Applied Dynamical Systems, Mathematical Biology, and applying Stochastic Processes to Biological Modeling.
+</p>
+
+</div>
+<!-------------------------------------------->
+<br>
+<!-------------------------------------------->
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_GW | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Tamsin Sandhu</h4>
+
+<p>MSc Student</p>
+
+<p align="justify">
+</p>
+
+</div>
+<!-------------------------------------------->
+<br>
+<!-------------------------------------------->
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_GM | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Will Taylor</h4>
+
+<p>MSci Student</p>
+
+<p align="justify">
+</p>
+
+</div>
+<!-------------------------------------------->
+<br>
+<!-------------------------------------------->
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_XZ | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Xinyu Zhao</h4>
+
+<p>MSci Student</p>
+
+<p align="justify">Xinyu is a year-four student in the Mathematics programme at Imperial College London. She is passionate about applied maths, including methods such as asymptotic analysis, mathematical biology and their applications to chemistry. Her current research project involves studying time-reversal symmetry breaking in reaction-diffusion systems by means of analytics and numerics.
+</p>
+
+</div>
+<!-------------------------------------------->
+<br>
+<!-------------------------------------------->
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_GM | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Peiyu (Ray) Lyu</h4>
+
+<p>MSci Student</p>
+
+<p align="justify">
 </p>
 
 </div>
@@ -141,8 +196,21 @@ Clara joined Imperial College London in September 2022 after completing a BSc in
 <hr>
 
 <h3>Former members</h3>
+<br>
+<h4>PhD students and postdocs</h4>
+
+* __Andrew Killeen__ (PhD student, Imperial College London, 2019-2023)
 
 * __Shalabh Anand__ (Postdoctoral fellow, Imperial College London, 2020-2022)
+
+
+<h4>MSc, MSci and undergraduate students</h4>
+
+* __Jane Peltier__ (Mary Lister-McCammon Fellow, Ecole Polytechnique, 2023)
+
+* __Edward Erasmie-Jones__ (MSc in Applied Mathematics, Imperial College London, 2023)
+
+* __Caetano Genete-Visan__ (MSci in Mathematics, Imperial College London, 2023)
 
 * __Hanchun Wang__ (MSc in Applied Mathematics, Imperial College London, 2022)
 
@@ -297,3 +365,46 @@ Hanchun completed his undergraduate study in Mathematics Physics and computer sc
 
 </div>
 ------------------->
+
+
+<!------------------
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_AK | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Andrew Killeen</h4>
+
+<p>PhD Student (co-supervised with <a href="http://www.bg.ic.ac.uk/research/c.lee/index.html">Dr Chiu Fan Lee</a>)</p>
+
+<p align="justify">Andy obtained an MEng in Mechanical Engineering from the University of Southampton before joining Imperial College’s <a href="https://www.imperial.ac.uk/fluids-cdt/">Centre for Doctoral Training (CDT) in Fluid Dynamics</a>. His research focusses on modelling cellular dynamics and interactions to understand the causes of emergent behaviour seen experimentally. He is collaborating with the group of <a href="https://www.imperial.ac.uk/lo-celso-lab/">Cristina Lo Celso (Department of Life Sciences)</a> to model interactions between healthy and leukemic cells in the bone marrow, to better understand how leukaemia outcompetes healthy haematopoiesis.
+</p>
+
+</div>
+------------------->
+
+
+<!------------------
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_EEJ | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Edward Erasmie-Jones</h4>
+
+<p>MSc Student</p>
+
+<p align="justify">
+Edward is undertaking a master's in applied mathematics at Imperial College London. He is interested in all things mathematics, especially computational mathematics, mathematical biology and fluid dynamics. His current research project involves studying the chemotactic behaviour of E. Coli, and how this behaviour changes in the presence of different chemoattractant gradient structures in crowded environment.
+</p>
+
+</div>
+------------------->
+
+<!------------------
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_CGV | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Caetano Visan-Genete</h4>
+
+<p>MSci Student</p>
+
+<p align="justify">Caetano is a fourth-year student on the Mathematics program at Imperial College London with great interests in many different fields such as Analysis, Applied Mathematics, Computational Mathematics and Physics. His current research project involves investigating, numerically, the phenomena of liquid-liquid phase separation influenced by enzymatic chemical reactions within the cytoplasm of living cells. More precisely, by varying these reactions in both time and space.
+</p>
+
+</div>
+------------------->
+
