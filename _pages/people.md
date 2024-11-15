@@ -23,6 +23,7 @@ profile:
   img_TJ: TJ.jpg
   img_JP: JP.jpg
   img_XZ: XZ.jpg
+  img_RM: RM.jpg
   img_GM_2022: GM_2022.JPG
   img_GM: man_lab_member.png
   img_GW: woman_lab_member.png
@@ -47,19 +48,6 @@ navorder: 2
 <hr>
 
 <h3>Current group members</h3>
-<br>
-<!-------------------------------------------->
-<div class="clearfix">
-<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_HA | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
-<h4>Henry Alston</h4>
-
-<p>PhD Student</p>
-
-<p align="justify">As an undergraduate, Henry studied mathematics at Imperial College London and joined the group in Autumn 2020 as a PhD student. His master's thesis focused on the phase transition phenomena present in two systems of self-organisation through velocity and body-attitude alignment. He is currently working on applying Non-Equilibrium Statistical Mechanics techniques to understand the emergent behaviour in active and living systems.
-</p>
-
-</div>
-<!-------------------------------------------->
 <br>
 <!-------------------------------------------->
 <div class="clearfix">
@@ -102,13 +90,12 @@ navorder: 2
 <br>
 <!-------------------------------------------->
 <div class="clearfix">
-<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_CN | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
-<h4>Clara Neather</h4>
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_RM | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Ross Monaghan</h4>
 
-<p>MSc Student</p>
+<p>PhD Student</p>
 
-<p align="justify">
-Clara joined Imperial College London in September 2022 after completing a BSc in Mathematics at the University of Bristol. Her MSc is in Applied Mathematics, with a focus on quantum mechanics and mathematical biology. Her research project is on the behaviour of active filaments in crowded environments, modelling active polymer chains in environments with obstacles.
+<p align="justify">Ross joined the group as a PhD student in September 2024. His main research focus is on the behaviour of active systems for the purposes of understanding biological phenomena, including the collective dynamics of tissues. Previously, he completed an MPhil from the University of Adelaide studying the dynamics of non-equilibrium quantum systems.
 </p>
 
 </div>
@@ -116,12 +103,12 @@ Clara joined Imperial College London in September 2022 after completing a BSc in
 <br>
 <!-------------------------------------------->
 <div class="clearfix">
-<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_JP | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
-<h4>Jane Peltier</h4>
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_GM | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Seongjun Han</h4>
 
-<p>MSc Student</p>
+<p>MSci Student</p>
 
-<p align="justify"> Jane joined the group in July 2023 as a Mary Lister McCammon Summer Research Fellow after completing a BSc in Mathematics and Economics at Ecole Polytechnique in France. She is now undertaking an MSc in Applied Mathematics and working on the analytical and numerical investigation of liquid-liquid phase separation with switching and nonreciprocity. She is greatly interested in Computational Mathematics, Applied Dynamical Systems, Mathematical Biology, and applying Stochastic Processes to Biological Modeling.
+<p align="justify">
 </p>
 
 </div>
@@ -130,46 +117,7 @@ Clara joined Imperial College London in September 2022 after completing a BSc in
 <!-------------------------------------------->
 <div class="clearfix">
 <img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_GW | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
-<h4>Tamsin Sandhu</h4>
-
-<p>MSc Student</p>
-
-<p align="justify">
-</p>
-
-</div>
-<!-------------------------------------------->
-<br>
-<!-------------------------------------------->
-<div class="clearfix">
-<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_GM | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
-<h4>Will Taylor</h4>
-
-<p>MSci Student</p>
-
-<p align="justify">
-</p>
-
-</div>
-<!-------------------------------------------->
-<br>
-<!-------------------------------------------->
-<div class="clearfix">
-<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_XZ | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
-<h4>Xinyu Zhao</h4>
-
-<p>MSci Student</p>
-
-<p align="justify">Xinyu is a year-four student in the Mathematics programme at Imperial College London. She is passionate about applied maths, including methods such as asymptotic analysis, mathematical biology and their applications to chemistry. Her current research project involves studying time-reversal symmetry breaking in reaction-diffusion systems by means of analytics and numerics.
-</p>
-
-</div>
-<!-------------------------------------------->
-<br>
-<!-------------------------------------------->
-<div class="clearfix">
-<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_GM | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
-<h4>Peiyu (Ray) Lyu</h4>
+<h4>Yushan Hu</h4>
 
 <p>MSci Student</p>
 
@@ -199,6 +147,8 @@ Clara joined Imperial College London in September 2022 after completing a BSc in
 <br>
 <h4>PhD students and postdocs</h4>
 
+* __Henry Alston__ (PhD student, Imperial College London, 2020-2024)
+
 * __Andrew Killeen__ (PhD student, Imperial College London, 2019-2023)
 
 * __Shalabh Anand__ (Postdoctoral fellow, Imperial College London, 2020-2022)
@@ -206,7 +156,17 @@ Clara joined Imperial College London in September 2022 after completing a BSc in
 
 <h4>MSc, MSci and undergraduate students</h4>
 
-* __Jane Peltier__ (Mary Lister-McCammon Fellow, Ecole Polytechnique, 2023)
+* __Tamsin Sandhu__ (MSc in Applied Mathematics, Imperial College London, 2024)
+
+* __Clara Neather__ (MSc in Applied Mathematics, Imperial College London, 2023-2024)
+
+* __Jane Peltier__ (Mary Lister-McCammon Fellow and MSc in Applied Mathematics, Imperial College London, 2023-2024)
+
+* __Xinyu Zhao__ (MSci in Mathematics, Imperial College London, 2024)
+
+* __Will Taylor__ (MSci in Mathematics, Imperial College London, 2024)
+
+* __Peiyu Lyu__ (MSci in Mathematics, Imperial College London, 2024)
 
 * __Edward Erasmie-Jones__ (MSc in Applied Mathematics, Imperial College London, 2023)
 
@@ -408,3 +368,94 @@ Edward is undertaking a master's in applied mathematics at Imperial College Lond
 </div>
 ------------------->
 
+<!------------------
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_HA | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Henry Alston</h4>
+
+<p>PhD Student</p>
+
+<p align="justify">As an undergraduate, Henry studied mathematics at Imperial College London and joined the group in Autumn 2020 as a PhD student. His master's thesis focused on the phase transition phenomena present in two systems of self-organisation through velocity and body-attitude alignment. He is currently working on applying Non-Equilibrium Statistical Mechanics techniques to understand the emergent behaviour in active and living systems.
+</p>
+
+</div>
+-------------------->
+
+<!-------------------
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_CN | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Clara Neather</h4>
+
+<p>MSc Student</p>
+
+<p align="justify">
+Clara joined Imperial College London in September 2022 after completing a BSc in Mathematics at the University of Bristol. Her MSc is in Applied Mathematics, with a focus on quantum mechanics and mathematical biology. Her research project is on the behaviour of active filaments in crowded environments, modelling active polymer chains in environments with obstacles.
+</p>
+
+</div>
+-------------------->
+
+<!-------------------
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_JP | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Jane Peltier</h4>
+
+<p>MSc Student</p>
+
+<p align="justify"> Jane joined the group in July 2023 as a Mary Lister McCammon Summer Research Fellow after completing a BSc in Mathematics and Economics at Ecole Polytechnique in France. She is now undertaking an MSc in Applied Mathematics and working on the analytical and numerical investigation of liquid-liquid phase separation with switching and nonreciprocity. She is greatly interested in Computational Mathematics, Applied Dynamical Systems, Mathematical Biology, and applying Stochastic Processes to Biological Modeling.
+</p>
+
+</div>
+-------------------->
+
+<!-------------------
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_GW | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Tamsin Sandhu</h4>
+
+<p>MSc Student</p>
+
+<p align="justify">
+</p>
+
+</div>
+-------------------->
+
+<!-------------------
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_GM | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Will Taylor</h4>
+
+<p>MSci Student</p>
+
+<p align="justify">
+</p>
+
+</div>
+-------------------->
+
+<!-------------------
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_XZ | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Xinyu Zhao</h4>
+
+<p>MSci Student</p>
+
+<p align="justify">Xinyu is a year-four student in the Mathematics programme at Imperial College London. She is passionate about applied maths, including methods such as asymptotic analysis, mathematical biology and their applications to chemistry. Her current research project involves studying time-reversal symmetry breaking in reaction-diffusion systems by means of analytics and numerics.
+</p>
+
+</div>
+-------------------->
+
+<!-------------------
+<div class="clearfix">
+<img style="padding: 0 15px 10px 10px; float: left" width="200" src="{{ page.profile.img_GM | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+<h4>Peiyu (Ray) Lyu</h4>
+
+<p>MSci Student</p>
+
+<p align="justify">
+</p>
+
+</div>
+-------------------->

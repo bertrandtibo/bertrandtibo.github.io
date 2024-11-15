@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Biomimetic Emulsions
+title: Bioinspired Soft Matter
 description:
 img: /assets/img/project_5.png
-importance: 5
+importance: 6
 ---
 
 Coming soon...
